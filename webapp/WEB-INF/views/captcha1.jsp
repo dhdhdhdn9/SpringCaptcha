@@ -18,7 +18,7 @@
 	<div>아이디 : <input type="text" id="userid" name="userid"></div>
 	<div>비밀번호 : <input type="password" id="passwd" name="passwd"></div>
 	<!-- <div class="g-recaptcha"
-		data-sitekey="6LdtIwgbAAAAAAfVQKZ16AhH9qNWiDmxGLX6u2Yb"
+		data-sitekey=""
 		data-callback="onSubmit"></div> -->
 	<div><button type="submit">입력완료</button></div>
 	</form>
